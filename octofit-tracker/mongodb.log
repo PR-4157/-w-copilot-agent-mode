@@ -1,0 +1,13 @@
+2025-07-06T15:52:27.756+0000 I CONTROL  [initandlisten] MongoDB starting : pid=21639 port=27017 dbpath=/workspaces/-w-copilot-agent-mode/octofit-tracker/mongodb-data 64-bit host=codespaces-f3d64d
+2025-07-06T15:52:27.756+0000 I CONTROL  [initandlisten] db version v3.6.8
+2025-07-06T15:52:27.756+0000 I CONTROL  [initandlisten] git version: 8e540c0b6db93ce994cc548f000900bdc740f80a
+2025-07-06T15:52:27.756+0000 I CONTROL  [initandlisten] OpenSSL version: OpenSSL 1.1.1f  31 Mar 2020
+2025-07-06T15:52:27.756+0000 I CONTROL  [initandlisten] allocator: tcmalloc
+2025-07-06T15:52:27.756+0000 I CONTROL  [initandlisten] modules: none
+2025-07-06T15:52:27.756+0000 I CONTROL  [initandlisten] build environment:
+2025-07-06T15:52:27.756+0000 I CONTROL  [initandlisten]     distarch: x86_64
+2025-07-06T15:52:27.756+0000 I CONTROL  [initandlisten]     target_arch: x86_64
+2025-07-06T15:52:27.756+0000 I CONTROL  [initandlisten] options: { processManagement: { fork: true }, storage: { dbPath: "/workspaces/-w-copilot-agent-mode/octofit-tracker/mongodb-data" }, systemLog: { destination: "file", path: "/workspaces/-w-copilot-agent-mode/octofit-tracker/mongodb.log" } }
+2025-07-06T15:52:27.756+0000 E STORAGE  [initandlisten] Failed to set up listener: SocketException: Address already in use
+2025-07-06T15:52:27.756+0000 I CONTROL  [initandlisten] now exiting
+2025-07-06T15:52:27.756+0000 I CONTROL  [initandlisten] shutting down with code:48
